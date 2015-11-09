@@ -1,7 +1,7 @@
 print "Give me a word (e.g. FIZZ): "
 first_word = gets.chomp
 
-print "Give me a word (e.g. BUZZ): "
+print "Give me a word (e.g. FIZZBUZZ): "
 second_word = gets.chomp
 
 for x in 1..100
